@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(121, 121, 133);
+    text-align: center;
+}
+h1{
+    font-family: serif;
+    font-size: 5rem;
+    font-style: italic;
+    color: khaki;
+    text-shadow: 3px 0 #bd3232;
+}
+button{
+    display: inline-block;
+   margin-top: 16%;
+   text-shadow: 3px 0 #DBEDF3;
+   width: 150px;
+   height: 150px;
+   padding: 24px 38px;
+   border: 10px solid rgb(55, 72, 104);
+  
+   cursor: pointer;
+   font-size: 60px;
+   font-family: serif;
+   color: rgb(197, 31, 31);
+   margin: 10px;
+   background-image: url("img.jpg");
+   background-size: 100% 100% ;
+   background-repeat: no-repeat;
+   border-radius: 20px;
+}
+footer{
+    margin-top: 130px;
+}.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
